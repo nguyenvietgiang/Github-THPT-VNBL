@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\bin\Debug\THPT VN-BL.exe.config
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\bin\Debug\THPT VN-BL.exe
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\bin\Debug\THPT VN-BL.pdb
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT VN-BL.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.Properties.Resources.resources
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT VN-BL.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT VN-BL.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT VN-BL.exe
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT VN-BL.pdb
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.Login.resources
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.MainGV.resources
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.MainHS.resources
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.QLhsl.resources
+C:\Users\dell\source\repos\THPT VN-BL\THPT VN-BL\obj\Debug\THPT_VN_BL.QLDiem.resources
